@@ -1,0 +1,6 @@
+nbproject
+dist.tar.gz
+out/*
+.idea
+*~
+.dep.inc
